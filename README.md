@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there! I'm thecybergirl
 
 
-👋 Hi, I’m @thecybergirl
 👀 I'm a cybersecurity enthusiast with hands-on basic SOC, Networking and pentesting skills
 🌱 I’m currently expanding my knowledge and skill in this field
 💞️ I’m looking to collaborate on cybersecurity projects
