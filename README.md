@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+👋 Hi, I’m @thecybergirl
+👀 I'm a cybersecurity enthusiast with hands-on basic SOC, Networking and pentesting skills
+🌱 I’m currently expanding my knowledge and skill in this field
+💞️ I’m looking to collaborate on cybersecurity projects
+📫 How to reach me elizabethnwifor@gmail.com
+
 <!--
 **thecybergirI/thecybergirI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
