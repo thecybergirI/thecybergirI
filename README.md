@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me  
 I’m **Elizabeth Nwifor** — also known as **thecybergirl** — an **Entry-level Cybersecurity Analyst** & **Jr Pentester** with hands-on basic SOC, Networking and pentesting skills. I’m currently expanding my knowledge and skill in this field and looking to collaborate on cybersecurity projects.
 
-I hold a Bachelor in **Computer Science**.  
+I hold a Bachelor in **Computer Science** and I'm currently building cybersecurity skills through hands-on labs and projects, with a focus on SOC workflows, Linux environments, threat detection, network security, and penetration testing. My background in Microsoft 365 administration and SharePoint development has also provided experience in access control, data protection, and secure system configuration.  
 
 ---
 
@@ -19,8 +19,6 @@ I hold a Bachelor in **Computer Science**.
 - Vue.js and TypeScript  
 - Open source contributions and developer advocacy   
 - Building projects that inspire learning and collaboration  -->
-
----
 
 ### 🤝 Let’s Connect
 
@@ -41,6 +39,7 @@ I hold a Bachelor in **Computer Science**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 <!--
